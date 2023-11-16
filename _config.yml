@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emanuele Giacomini"
-  avatar           : "profile.png"
+  avatar           : "profile_eg.png"
   bio              : "Ph.D. at Sapienza University of Rome. Interested in SLAM, Computer Vision and 3D Reconstruction."
   location         : "Rome, Italy"
   employer         :
