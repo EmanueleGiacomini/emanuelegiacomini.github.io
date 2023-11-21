@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student at "Sapienza" University of Rome where I'm learning about Computer Vision, SLAM and 3D Reconstruction in general. I'm focusing my research on multimodal fusion for optical sensors (e.g. LiDARs and RGB cameras), SLAM in extereme dynamic environments and I'm approaching neural implicit SLAM. 
+I'm a Ph.D. student at "Sapienza" University of Rome where I'm learning about Computer Vision, SLAM and 3D Reconstruction in general. I'm focusing my research on multimodal fusion for optical sensors (e.g. LiDARs and RGB cameras), SLAM in extereme dynamic environments. Currently, I'm investigating how learning based approaches might be merged on model-based techniques.
 
 I've completed my BSc in Computer Science Engineering cum laude in October 2019 and my MSc in Artifical Intelligence and Robotics cum laude in October 2021. The title of my master thesis is "Data Driven Residual methods for Signal Level Prediction in noisy outdoor environments".   
 
