@@ -26,7 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I'm currently a post-doctoral researcher of the [RVP-Group](rvp-group.net) at "Sapienza" University of Rome.
+I'm currently a post-doctoral researcher of the [RVP-Group](https://rvp-group.net) at "Sapienza" University of Rome.
 
 My general research direction focuses on 3D Reconstruction. Specifically, I investigate the use of volumetric representations for geometric and appearance accurate 3D reconstruction.
 
