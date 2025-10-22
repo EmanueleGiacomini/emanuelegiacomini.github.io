@@ -28,7 +28,8 @@ latest_posts:
 ---
 I'm currently a post-doctoral researcher of the [RVP-Group](https://rvp-group.net) at "Sapienza" University of Rome.
 
-My general research direction focuses on 3D Reconstruction. Specifically, I investigate the use of volumetric representations for geometric and appearance accurate 3D reconstruction.
+My general research direction focuses on 3D Reconstruction.
+Specifically, I investigate the use of volumetric representations for geometric and appearance accurate 3D reconstruction.
 
 Obviously it doesn't end here! My PhD focused on LiDAR-RGB Simultaneous Localization And Mapping (SLAM), and I'm still tracking this line.
 If you are interested in collaborations, or want to do a master thesis with me, feel free to contact me.
